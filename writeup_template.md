@@ -1,4 +1,4 @@
-# **PizzaMaker Assignment** 
+# **ObstacleRacer Assignment** 
 
 ## Writeup Template
 
@@ -6,19 +6,19 @@
 
 ---
 
-**Model Elevator Project Goals**
+**Obstacle Racer Project Goals**
 
 The goals of this project are the following:
-* Using fischertechniks and ROBOPro, build a prototype elevator to go between three floors
-* Once the elevator meets the intended floor, a light must turn on indicating the floor
-* After a designer-defined period of time, the elevator must go back to the first floor
-* Fully comment all functions within the flowchart program
+* Using VEX and ROBOTC, build an Obstacle Racer to maneuver around and manipulae an obstacle course
+* A minimum of three motors/servos and two switches must be used as I/Os
+* The racer must not interfere with another race team
+* Fully comment all functions within the coded program
 
 [//]: # (Image References)
 
-[image1]: https://github.com/userName/JHS-PizzaMaker-Assignment/blob/master/images/image_example1.JPG "image_example1"
-[image2]: https://github.com/userName/JHS-PizzaMaker-Assignment/blob/master/images/image_example2.JPG "image_example2"
-[image3]: https://github.com/userName/JHS-PizzaMaker-Assignment/blob/master/images/image_example3.JPG "image_example3"
+[image1]: https://github.com/userName/JHS-ObstacleRacer-Assignment/blob/master/images/image_example1.JPG "image_example1"
+[image2]: https://github.com/userName/JHS-ObstacleRacer-Assignment/blob/master/images/image_example2.JPG "image_example2"
+[image3]: https://github.com/userName/JHS-ObstacleRacer-Assignment/blob/master/images/image_example3.JPG "image_example3"
 
 ## Rubric Points
 ### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
@@ -36,7 +36,7 @@ My project includes the following elements to meet the design constraints:
 
 My build includes fischertechnik components to ensure repeatability. For example,...
 
-### ROBOPro Programming Software
+### ROBOTC Programming Software
 
 #### 1. Design Constraints - All design constraints are met and the prototype goes above and beyond.
 
@@ -58,4 +58,4 @@ Here is where the code is implemented and integrating with my physical build:
 
 ### Output Video
 
-You can find video of the automated pizzamaker at this [YouTube link](https://www.youtube.com)
+You can find video demonstration of the Obstacle Racer at this [YouTube link](https://www.youtube.com)
