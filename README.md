@@ -5,13 +5,17 @@ In this project, you will develop your knowledge of programming with ROBOTC for 
 
 [//]: # (Image References)
 
-[image1]: https://github.com/joshrwhite/JHS-ObstacleRacer-Assignment/blob/master/Images/Rubric_PhysicalDesign.PNG "Rubric1"
-[image2]: https://github.com/joshrwhite/JHS-ObstacleRacer-Assignment/blob/master/Images/Rubric_SoftwareDesign.PNG "Rubric2"
-[image3]: https://github.com/joshrwhite/JHS-ObstacleRacer-Assignment/blob/master/Images/Rubric_WriteupReport.PNG "Rubric3"
+[image1]: https://github.com/joshrwhite/JHS-ObstacleRacer-Assignment/blob/master/Images/ObstacleRacer_track.PNG "ObstacleTrack"
+[image2]: https://github.com/joshrwhite/JHS-ObstacleRacer-Assignment/blob/master/Images/Rubric_PhysicalDesign.PNG "Rubric1"
+[image3]: https://github.com/joshrwhite/JHS-ObstacleRacer-Assignment/blob/master/Images/Rubric_SoftwareDesign.PNG "Rubric2"
+[image4]: https://github.com/joshrwhite/JHS-ObstacleRacer-Assignment/blob/master/Images/Rubric_WriteupReport.PNG "Rubric3"
+
 
 ## Design Brief
 
 The racing committee has developed a contained obstacle course for competitive use. Your team must design and build an Obstacle Racer that can maneuver around a track and manipulate obstacles out of the way of your path. The racer must be programmed before the race begins and not interfere with another race team's efforts. The prototype must include at least three motors for track movement and obstacle manipulation and two bumper switches at the front and the back for sensing purposes. Good Luck!
+
+![ObstacleTrack][image1]
 
 ## Further Project Requirements
 
@@ -27,15 +31,15 @@ The racing committee has developed a contained obstacle course for competitive u
 
 Physical Construction:
 
-![Rubric1][image1]
+![Rubric1][image2]
 
 ROBOTC Programming Software:
 
-![Rubric2][image2]
+![Rubric2][image3]
 
 Final Written Report:
 
-![Rubric3][image3]
+![Rubric3][image4]
 
 ## Repository Navigation
 
