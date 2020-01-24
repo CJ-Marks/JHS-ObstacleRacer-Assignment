@@ -17,7 +17,8 @@ The racing committee has developed a contained obstacle course for competitive u
 
 
 ![ObstacleTrack][image1]
-(__a course example__)
+
+(_a course example_)
 
 ## Further Project Requirements
 
