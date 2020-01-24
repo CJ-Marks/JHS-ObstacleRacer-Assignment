@@ -15,7 +15,9 @@ In this project, you will develop your knowledge of programming with ROBOTC for 
 
 The racing committee has developed a contained obstacle course for competitive use. Your team must design and build an Obstacle Racer that can maneuver around a track and manipulate obstacles out of the way of your path. The racer must be programmed before the race begins and not interfere with another race team's efforts. The prototype must include at least three motors for track movement and obstacle manipulation and two bumper switches at the front and the back for sensing purposes. Good Luck!
 
+
 ![ObstacleTrack][image1]
+(__a course example__)
 
 ## Further Project Requirements
 
@@ -43,10 +45,10 @@ Final Written Report:
 
 ## Repository Navigation
 
-Aside from the `README.md` file and supporting documents, there is an `.c` file for example code for obstacle movement. The example ROBOTC program shows the basic branch and variable functions of a closed-loop system. These can be mimicked, but blatant plagiarism will be penalized.
+Aside from the `README.md` file and supporting documents, there is an `.c` file for example code for obstacle movement. The example ROBOTC program shows the basic branch functions of an open-loop system. These can be mimicked, but be aware that the example of code is for the provided course layout, which will change from year to year.
 
 There is also a `writeup_template.md` file which can be used as a starting point for the final report.
 
-## Downloading ROBOPro
+## Downloading ROBOTC
 
 After going to the download [URL](https://www.vexrobotics.com/robotc-vexedr-vexiq.html?gclid=Cj0KCQiA9dDwBRC9ARIsABbedBMDU-1o7Ihp4-JlVKe5vP7qzQuGAG0UaOeJ6IqcN99QavRiZN2nhEIaAhq2EALw_wcB), you can enter Setup with either an .EXE or .MSI file downloaded. Make sure to install all drivers so that the USB is able to be read by the computer.
